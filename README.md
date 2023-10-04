@@ -1,4 +1,4 @@
-97 JSON Tests for Authentication Endpoints (from https://www.wallarm.com/)
+## 97 JSON Tests for Authentication Endpoints (from https://www.wallarm.com/)
 
 1. Basic credentials:
 `{"login": "admin", "password": "admin} `
