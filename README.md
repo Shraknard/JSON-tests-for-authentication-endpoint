@@ -1,0 +1,1 @@
+# JSON-tests-for-authentication-endpoint
